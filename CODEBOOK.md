@@ -48,69 +48,135 @@ The raw data has been merged, selected, reestructured and summarised with the R 
 	6. LAYING
 	
 **timebodyacc.mean.x:**  Aggregate mean of the mean values of the time body acceleration signal in the x axis. Numeric, continuous.
+
 **timebodyacc.mean.y:**  Aggregate mean of the mean values of the time body acceleration signal in the y axis. Numeric, continuous.
+
 **timebodyacc.mean.z:**  Aggregate mean of the mean values of the time body acceleration signal in the z axis. Numeric, continuous.
+
 **timebodyacc.stddev.x:**  Aggregate mean of the standard deviation values of the time body acceleration signal in the x axis. Numeric, continuous.
+
 **timebodyacc.stddev.y:**  Aggregate mean of the standard deviation  values of the time body acceleration signal in the y axis. Numeric, continuous.
+
 **timebodyacc.stddev.z:**  Aggregate mean of the standard deviation  values of the time body acceleration signal in the z axis. Numeric, continuous.
+
 **timegravityacc.mean.x:**  Aggregate mean of the mean values of the time gravity acceleration signal in the x axis. Numeric, continuous.
+
 **timegravityacc.mean.y:**  Aggregate mean of the mean values of the time gravity acceleration signal in the y axis. Numeric, continuous.
+
 **timegravityacc.mean.z:**  Aggregate mean of the mean values of the time gravity acceleration signal in the z axis. Numeric, continuous.
+
 **timegravityacc.stddev.x:**  Aggregate mean of the standard deviation values of the time gravity acceleration signal in the x axis. Numeric, continuous.
+
 **timegravityacc.stddev.y:**  Aggregate mean of the standard deviation  values of the time gravity acceleration signal in the y axis. Numeric, continuous.
+
 **timegravityacc.stddev.z:**  Aggregate mean of the standard deviation  values of the time gravity acceleration signal in the z axis. Numeric, continuous.
+
 **timebodyaccjerk.mean.x:**  Aggregate mean of the mean values of the time body acceleration jerk in the x axis. Numeric, continuous.
+
 **timebodyaccjerk.mean.y:**  Aggregate mean of the mean values of the time body acceleration jerk in the y axis. Numeric, continuous.
+
 **timebodyaccjerk.mean.z:**  Aggregate mean of the mean values of the time body acceleration jerk in the z axis. Numeric, continuous.
+
+
 **timebodyaccjerk.stddev.x:**  Aggregate mean of the standard deviation values of the time body acceleration jerk in the x axis. Numeric, continuous.
+
 **timebodyaccjerk.stddev.y:**  Aggregate mean of the standard deviation values of the time body acceleration jerk in the y axis. Numeric, continuous.
+
 **timebodyaccjerk.stddev.z:**  Aggregate mean of the standard deviation values of the time body acceleration jerk in the z axis. Numeric, continuous.
+
 **timebodygyro.mean.x:**  Aggregate mean of the mean values of the time body angular velocity signal in the x axis. Numeric, continuous.
+
 **timebodygyro.mean.y:**  Aggregate mean of the mean values of the time body angular velocity signal in the y axis. Numeric, continuous.
+
 **timebodygyro.mean.z:**  Aggregate mean of the mean values of the time body angular velocity signal in the z axis. Numeric, continuous.
+
 **timebodygyro.stddev.x:**  Aggregate mean of the standard deviation values of the time body angular velocity signal in the x axis. Numeric, continuous.
+
 **timebodygyro.stddev.y:**  Aggregate mean of the standard deviation  values of the time body angular velocity signal in the y axis. Numeric, continuous.
+
 **timebodygyro.stddev.z:**  Aggregate mean of the standard deviation  values of the time body angular velocity signal in the z axis. Numeric, continuous.
+
 **timebodygyrojerk.mean.x:**  Aggregate mean of the mean values of the time body angular velocity jerk in the x axis. Numeric, continuous.
+
 **timebodygyrojerk.mean.y:**  Aggregate mean of the mean values of the time body angular velocity jerk in the y axis. Numeric, continuous.
+
 **timebodygyrojerk.mean.z:**  Aggregate mean of the mean values of the time body angular velocity jerk in the z axis. Numeric, continuous.
+
 **timebodygyrojerk.stddev.x:**  Aggregate mean of the standard deviation values of the time body angular velocity jerk in the x axis. Numeric, continuous.
+
 **timebodygyrojerk.stddev.y:**  Aggregate mean of the standard deviation values of the time body angular velocity jerk in the y axis. Numeric, continuous.
+
 **timebodygyrojerk.stddev.z:**  Aggregate mean of the standard deviation values of the time body angular velocity jerk in the z axis. Numeric, continuous.
+
 **timebodyaccmag.mean:**  Aggregate mean of the mean values of the time magnitude of the body acceleration signal. Numeric, continuous.
+
 **timebodyaccmag.stddev:**  Aggregate mean of the standard deviation values of the time magnitude of the body acceleration signal. Numeric, continuous.
+
 **timegravityaccmag.mean:**  Aggregate mean of the mean values of the time magnitude of the gravity acceleration signal. Numeric, continuous.
+
 **timegravityaccmag.stddev:**  Aggregate mean of the standard deviation values of the time magnitude of the gravity acceleration signal. Numeric, continuous.
+
 **timebodyaccjerkmag.mean:**  Aggregate mean of the mean values of the time magnitude of the body acceleration jerk. Numeric, continuous.
+
 **timebodyaccjerkmag.stddev:**  Aggregate mean of the standard deviation values of the time magnitude of the  body acceleration jerk. Numeric, continuous.
+
 **timebodygyromag.mean:**  Aggregate mean of the mean values of the time magnitude of the body angular velocity signal. Numeric, continuous.
+
 **timebodygyromag.stddev:**  Aggregate mean of the standard deviation values of the time magnitude of the body angular velocity signal. Numeric, continuous.
+
 **timebodygyrojerkmag.mean:**  Aggregate mean of the mean values of the time magnitude of the body angular velocity jerk. Numeric, continuous.
+
 **timebodygyrojerkmag.stddev:**  Aggregate mean of the standard deviation values of the time magnitude of the  body angular velocity jerk. Numeric, continuous.
+
 **freqbodyacc.mean.x:**  Aggregate mean of the mean values of the frequency body acceleration signal in the x axis. Numeric, continuous.
+
 **freqbodyacc.mean.y:**  Aggregate mean of the mean values of the frequency body acceleration signal in the y axis. Numeric, continuous.
+
 **freqbodyacc.mean.z:**  Aggregate mean of the mean values of the frequency body acceleration signal in the z axis. Numeric, continuous.
+
 **freqbodyacc.stddev.x:**  Aggregate mean of the standard deviation values of the frequency body acceleration signal in the x axis. Numeric, continuous.
+
 **freqbodyacc.stddev.y:**  Aggregate mean of the standard deviation  values of the frequency body acceleration signal in the y axis. Numeric, continuous.
+
 **freqbodyacc.stddev.z:**  Aggregate mean of the standard deviation  values of the frequency body acceleration signal in the z axis. Numeric, continuous.
+
 **freqbodyaccjerk.mean.x:**  Aggregate mean of the mean values of the frequency body acceleration jerk in the x axis. Numeric, continuous.
+
 **freqbodyaccjerk.mean.y:**  Aggregate mean of the mean values of the frequency body acceleration jerk in the y axis. Numeric, continuous.
+
 **freqbodyaccjerk.mean.z:**  Aggregate mean of the mean values of the frequency body acceleration jerk in the z axis. Numeric, continuous.
+
 **freqbodyaccjerk.stddev.x:**  Aggregate mean of the standard deviation values of the frequency body acceleration jerk in the x axis. Numeric, continuous.
+
 **freqbodyaccjerk.stddev.y:**  Aggregate mean of the standard deviation values of the frequency body acceleration jerk in the y axis. Numeric, continuous.
+
 **freqbodyaccjerk.stddev.z:**  Aggregate mean of the standard deviation values of the frequency body acceleration jerk in the z axis. Numeric, continuous.
+
 **freqbodygyro.mean.x:**  Aggregate mean of the mean values of the frequency body angular velocity signal in the x axis. Numeric, continuous.
+
 **freqbodygyro.mean.y:**  Aggregate mean of the mean values of the frequency body angular velocity signal in the y axis. Numeric, continuous.
+
 **freqbodygyro.mean.z:**  Aggregate mean of the mean values of the frequency body angular velocity signal in the z axis. Numeric, continuous.
+
 **freqbodygyro.stddev.x:**  Aggregate mean of the standard deviation values of the frequency body angular velocity signal in the x axis. Numeric, continuous.
+
 **freqbodygyro.stddev.y:**  Aggregate mean of the standard deviation  values of the frequency body angular velocity signal in the y axis. Numeric, continuous.
+
 **freqbodygyro.stddev.z:**  Aggregate mean of the standard deviation  values of the frequency body angular velocity signal in the z axis. Numeric, continuous.
+
 **freqbodyaccmag.mean:**  Aggregate mean of the mean values of the frequency magnitude of the body acceleration signal. Numeric, continuous.
-**freqbodyaccmag.stddev          :**  Aggregate mean of the standard deviation values of the frequency magnitude of the body acceleration signal. Numeric, continuous.
+
+**freqbodyaccmag.stddev:**  Aggregate mean of the standard deviation values of the frequency magnitude of the body acceleration signal. Numeric, continuous.
+
 **freqbodybodyaccjerkmag.mean:**  Aggregate mean of the mean values of the frequency magnitude of the body acceleration jerk. Numeric, continuous.
+
 **freqbodybodyaccjerkmag.stddev:**  Aggregate mean of the standard deviation values of the frequency magnitude of the  body acceleration jerk. Numeric, continuous.
+
 **freqbodybodygyromag.mean:**  Aggregate mean of the mean values of the frequency magnitude of the body angular velocity signal. Numeric, continuous.
+
 **freqbodybodygyromag.stddev:**  Aggregate mean of the standard deviation values of the frequency magnitude of the body angular velocity signal. Numeric, continuous.
+
 **freqbodybodygyrojerkmag.mean:**  Aggregate mean of the mean values of the frequency magnitude of the body angular velocity jerk. Numeric, continuous.
+
 **freqbodybodygyrojerkmag.stddev:**  Aggregate mean of the standard deviation values of the frequency magnitude of the  body angular velocity jerk. Numeric, continuous.
 
