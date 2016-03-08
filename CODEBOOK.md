@@ -40,12 +40,12 @@ The raw data has been merged, selected, reestructured and summarised with the R 
 
 **Activity:** Specific activity performed. Factor, 6 levels:
 
-	1. WALKING
-	2. WALKING_UPSTAIRS
-	3. WALKING_DOWNSTAIRS
-	4. SITTING
-	5. STANDING
-	6. LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 	
 **timebodyacc-mean-x:**  Aggregate mean of the mean values of the time body acceleration signal in the x axis. Numeric, continuous.
 
